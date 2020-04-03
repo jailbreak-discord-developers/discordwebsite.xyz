@@ -14,9 +14,9 @@ Discord-Website
 Team:
 - [@Cryptic](https://twitter.com/cr4ptic)
 - [@Harryioss](https://twitter.com/harryioss)
-- [@Pixeljellyfish](https://twitter.com/pixeljellyfish)<br/>
+- [@Pixeljellyfish](https://twitter.com/pixeljellyfish)
 - [@Chrislad](https://twitter.com/Ovzic)
-- [@Bowl_V2](https://twitter.com/)
+- [@Bowl_V2](https://twitter.com/)<br/>
 
 ### Discord Server
-[Discord Server](https://discord.gg/k9VrUGf) <br/>
+[Join!](https://discord.gg/k9VrUGf)<br/>
