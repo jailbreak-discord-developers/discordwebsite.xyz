@@ -16,7 +16,7 @@ body {
 }
 
 /* Style the links inside the navigation bar */
-.nav ul {
+.nav a {
     float: left;
     color: #fafafa;
     text-align: center;
@@ -27,7 +27,7 @@ body {
 
 /* Change the color of links on hover */
 .nav ul:hover {
-    background-color: #ffffff;
+    background-color: #000000;
     color: #000000;
 }
 
@@ -339,7 +339,7 @@ h3,
 }
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-    background-color: #21146a;
+    background-color: #e9e9e9;
     color: #fff !important
 }
 
