@@ -27,8 +27,8 @@ body {
 
 /* Change the color of links on hover */
 .nav ul:hover {
-    background-color: #000000;
-    color: #000000;
+    background-color: #838383;
+    color: #3d3d3d;
 }
 
 /* Add a color to the active/current link */
@@ -217,7 +217,7 @@ h3,
 .header_area .navbar-social li i,
 .header_area .navbar-social li span {
     font-size: 13px;
-    color: #242429
+    color: #3d3d3d
 }
 
 .header_area .navbar-social li:last-child {
@@ -226,7 +226,7 @@ h3,
 
 .header_area .navbar-social li a:hover i,
 .header_area .navbar-social li span {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .header_area .menu_nav {
@@ -327,7 +327,7 @@ h3,
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
     line-height: 45px;
-    color: #21146a !important;
+    color: #3d3d3d !important;
     padding: 0px 30px;
     transition: all 150ms linear;
     display: block;
@@ -376,7 +376,7 @@ h3,
     top: -70px;
     left: 0;
     right: 0;
-    background: #412fb3;
+    background: #3d3d3d;
     z-index: 99;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
@@ -495,7 +495,7 @@ h3,
     }
 
     .header_area .navbar {
-        background: #412fb3
+        background: #3d3d3d
     }
 
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
@@ -851,7 +851,7 @@ h3,
 
 .hero-banner {
     position: relative;
-    background: #22195b;
+    background: #3d3d3d;
     background-size: cover;
     padding: 90px 0 60px 0;
     z-index: 1
@@ -1022,7 +1022,7 @@ h3,
 .card-feature__icon i,
 .card-feature__icon span {
     font-size: 30px;
-    color: #21146a
+    color: #3d3d3d
 }
 
 .card-feature__title {
@@ -1090,7 +1090,7 @@ h3,
 .offer-single__icon i,
 .offer-single__icon span {
     font-size: 30px;
-    color: #21146a
+    color: #3d3d3d
 }
 
 @media (min-width: 991px) {
@@ -1155,7 +1155,7 @@ h3,
 }
 
 .card-pricing:hover .button {
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff
 }
 
@@ -1215,7 +1215,7 @@ h3,
 
 .card-pricing__list li.unvalid i,
 .card-pricing__list li.unvalid span {
-    color: #f81c1c;
+    color: #3d3d3d;
     font-size: 12px
 }
 
@@ -1289,7 +1289,7 @@ h3,
 }
 
 .testimonial .owl-dots .owl-dot.active span {
-    background: #21146a
+    background: #3d3d3d
 }
 
 .our_major_cause .owl-item {
@@ -1638,12 +1638,12 @@ h3,
 }
 
 .blog-banner-btn {
-    border: 2px solid #21146a;
+    border: 2px solid #3d3d3d;
     padding: 10px 45px
 }
 
 .blog-banner-btn:hover {
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff
 }
 
@@ -1669,7 +1669,7 @@ h3,
 }
 
 .l_blog_item .l_blog_text h4:hover {
-    color: #21146a
+    color: #21143d3d3d6a
 }
 
 .l_blog_item .l_blog_text p {
@@ -1695,7 +1695,7 @@ h3,
 }
 
 .causes_slider .owl-dots .owl-dot.active {
-    background: #21146a
+    background: #3d3d3d
 }
 
 .causes_item {
@@ -1718,7 +1718,7 @@ h3,
 .causes_item .causes_img .c_parcent span {
     width: 70%;
     height: 3px;
-    background: #21146a;
+    background: #3d3d3d;
     position: absolute;
     left: 0px;
     bottom: 0px
@@ -1729,7 +1729,7 @@ h3,
     position: absolute;
     right: -10px;
     bottom: 0px;
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff;
     padding: 0px 5px
 }
@@ -1747,7 +1747,7 @@ h3,
 }
 
 .causes_item .causes_text h4:hover {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .causes_item .causes_text p {
@@ -1759,11 +1759,11 @@ h3,
 
 .causes_item .causes_bottom a {
     width: 50%;
-    border: 1px solid #21146a;
+    border: 1px solid #3d3d3d;
     text-align: center;
     float: left;
     line-height: 50px;
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff;
     font-size: 14px;
     font-weight: 500
@@ -1824,7 +1824,7 @@ h3,
 }
 
 .tags .tag_btn:before {
-    background: #21146a
+    background: #3d3d3d
 }
 
 .tags .tag_btn+.tag_btn {
@@ -1898,7 +1898,7 @@ h3,
 }
 
 .categories_post:hover .categories_details {
-    background: rgba(56, 74, 235, 0.85)
+    background: #3d3d3d
 }
 
 .blog_item {
@@ -1919,7 +1919,7 @@ h3,
 }
 
 .blog_info .post_tag a.active {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_info .blog_meta li a {
@@ -1940,7 +1940,7 @@ h3,
 }
 
 .blog_info .blog_meta li a:hover {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_post img {
@@ -1960,7 +1960,7 @@ h3,
 }
 
 .blog_details h2:hover {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_details p {
@@ -1986,7 +1986,7 @@ h3,
 .blog_right_sidebar .widget_title {
     font-size: 18px;
     line-height: 25px;
-    background: #21146a;
+    background: #3d3d3d;
     text-align: center;
     color: #fff;
     padding: 8px 0px;
@@ -2003,7 +2003,7 @@ h3,
     padding-left: 20px;
     border-radius: 45px;
     z-index: 0;
-    background: #21146a
+    background: #3d3d3d
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
@@ -2071,7 +2071,7 @@ h3,
 }
 
 .blog_right_sidebar .author_widget .social_icon a:hover {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body {
@@ -2089,7 +2089,7 @@ h3,
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
@@ -2123,11 +2123,11 @@ h3,
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover {
-    border-color: #21146a
+    border-color: #3d3d3d
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-    color: #21146a
+    color: #3d3d3d
 }
 
 .blog_right_sidebar .newsletter_widget {
@@ -2188,7 +2188,7 @@ h3,
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff;
     font-size: 12px;
     line-height: 38px;
@@ -2275,7 +2275,7 @@ h3,
 .blog-pagination .page-link:hover {
     color: #fff;
     text-decoration: none;
-    background-color: #21146a;
+    background-color: #3d3d3d;
     border-color: #eee
 }
 
@@ -2510,7 +2510,7 @@ h3,
 }
 
 .comments-area .btn-reply:hover {
-    background-color: #21146a;
+    background-color: #3d3d3d;
     color: #fff;
     font-weight: 700
 }
@@ -2664,12 +2664,12 @@ h3,
 }
 
 .contact-banner-btn {
-    border: 2px solid #21146a;
+    border: 2px solid #3d3d3d;
     padding: 10px 45px
 }
 
 .contact-banner-btn:hover {
-    background: #21146a;
+    background: #3d3d3d;
     color: #fff
 }
 
@@ -2679,7 +2679,7 @@ h3,
 
 .contact-info__icon i,
 .contact-info__icon span {
-    color: #21146a;
+    color: #3d3d3d;
     font-size: 20px
 }
 
@@ -2730,9 +2730,9 @@ h3,
     font-weight: 500;
     padding: 10px 24px;
     border-radius: 30px;
-    background-color: #fff;
-    color: #21146a;
-    color: #3a414e;
+    background-color: rgb(88, 88, 88);
+    color: #919191;
+    color: #919191;
     transition: all .4s ease
 }
 
@@ -2749,8 +2749,8 @@ h3,
 
 .button:hover {
     background-color: transparent;
-    border-color: #21146a;
-    color: #000022
+    border-color: #919191;
+    color: #919191
 }
 
 .button-header {
@@ -2758,22 +2758,22 @@ h3,
 }
 
 .button.bg:hover {
-    border-color: #fff;
-    color: #fff
+    border-color: #acaaaa;
+    color: #acaaaa
 }
 
 .button-light {
     background-color: transparent;
-    border-color: #21146a
+    border-color: #3d3d3d
 }
 
 .button-light:hover {
-    background-color: #21146a;
-    color: #fff
+    background-color: #acaaaa;
+    color: #acaaaa
 }
 
 .button-blog {
-    border: 1px solid #21146a;
+    border: 1px solid #3d3d3d;
     border-radius: 4px;
     font-size: 12px;
     text-transform: uppercase;
@@ -2784,7 +2784,7 @@ h3,
 }
 
 .button-blog:hover {
-    background-color: #21146a;
+    background-color: #3d3d3d;
     color: #fff
 }
 
@@ -2792,7 +2792,7 @@ h3,
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background-color: #21146a;
+    background-color: #3d3d3d;
     color: #fff;
     border-radius: 4px;
     padding: 14px 45px
@@ -2800,14 +2800,14 @@ h3,
 
 .button-contactForm {
     font-size: 15px;
-    background-color: #21146a;
+    background-color: #3d3d3d;
     color: #fff;
     padding: 12px 36px
 }
 
 .button-contactForm:hover {
-    border-color: #21146a;
-    color: #21146a
+    border-color: #3d3d3d;
+    color: #3d3d3d
 }
 
 .footer-area {
@@ -2963,7 +2963,7 @@ h3,
 }
 
 .footer-area .footer-bottom .footer-social a {
-    background: rgba(255, 255, 255, 0.15);
+    background: #3d3d3d;
     margin-left: 3px;
     width: 32px;
     color: #fff;
@@ -2975,7 +2975,7 @@ h3,
 
 .footer-area .footer-bottom .footer-social a:hover {
     background: #fff;
-    color: #21146a
+    color: #3d3d3d
 }
 
 .footer-area .footer-bottom .footer-social a i,
