@@ -921,12 +921,6 @@ h3,
     }
 }
 
-@media (max-width: 991px) {
-    .footer-area .single-footer-widget {
-        margin-bottom: 30px
-    }
-}
-
 .footer-area .single-footer-widget p {
     color: #7b838a
 }
