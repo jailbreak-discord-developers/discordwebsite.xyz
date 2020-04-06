@@ -923,28 +923,8 @@ h3,
     }
 }
 
-.button:hover {
-    background-color: transparent;
-    border-color: #919191;
-    color: #919191
-}
-
-.button-header {
-    padding: 12px 40px
-}
-
 .button.bg:hover {
     border-color: #acaaaa;
-    color: #acaaaa
-}
-
-.button-light {
-    background-color: transparent;
-    border-color: #3d3d3d
-}
-
-.button-light:hover {
-    background-color: #acaaaa;
     color: #acaaaa
 }
 
@@ -988,16 +968,8 @@ h3,
     }
 }
 
-.footer-area .single-footer-widget ul li {
-    margin-bottom: 10px
-}
-
 .footer-area .single-footer-widget ul li a {
     color: #797979
-}
-
-.footer-area .single-footer-widget .form-wrap {
-    margin-top: 25px
 }
 
 .footer-area .single-footer-widget input {
