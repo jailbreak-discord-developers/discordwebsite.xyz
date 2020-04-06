@@ -1224,28 +1224,6 @@ h3,
     color: #fff
 }
 
-.button-postComment {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    background-color: #3d3d3d;
-    color: #fff;
-    border-radius: 4px;
-    padding: 14px 45px
-}
-
-.button-contactForm {
-    font-size: 15px;
-    background-color: #3d3d3d;
-    color: #fff;
-    padding: 12px 36px
-}
-
-.button-contactForm:hover {
-    border-color: #3d3d3d;
-    color: #3d3d3d
-}
-
 .footer-area {
     padding: 120px 0px 120px;
     background: #0e1424
