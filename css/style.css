@@ -995,35 +995,3 @@ h3,
 .footer-area .footer-bottom p a {
     color: #fff
 }
-
-.footer-area .footer-bottom .footer-social {
-    text-align: center
-}
-
-@media (max-width: 991px) {
-    .footer-area .footer-bottom .footer-social {
-        text-align: left;
-        margin-top: 30px
-    }
-}
-
-.footer-area .footer-bottom .footer-social a {
-    background: #3d3d3d;
-    margin-left: 3px;
-    width: 32px;
-    color: #fff;
-    display: inline-grid;
-    text-align: center;
-    height: 32px;
-    align-content: center
-}
-
-.footer-area .footer-bottom .footer-social a:hover {
-    background: #fff;
-    color: #3d3d3d
-}
-
-.footer-area .footer-bottom .footer-social a i,
-.footer-area .footer-bottom .footer-social a span {
-    font-size: 14px
-}
