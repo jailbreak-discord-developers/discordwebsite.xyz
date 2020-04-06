@@ -935,35 +935,6 @@ h3,
     color: #797979
 }
 
-.footer-area .single-footer-widget input {
-    height: 48px;
-    border: none;
-    width: 67% !important;
-    font-weight: 400;
-    background: rgba(255, 255, 255, 0.2);
-    color: #fff;
-    padding-left: 20px;
-    border-radius: 0;
-    font-size: 14px;
-    padding: 10px
-}
-
-.footer-area .single-footer-widget .click-btn {
-    font-family: "Roboto", sans-serif;
-    color: #3a414e;
-    border-radius: 0;
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-    padding: 8px 20px;
-    border: 0;
-    font-size: 14px;
-    background: #fff;
-    font-weight: 500;
-    text-transform: capitalize;
-    position: relative;
-    left: 0
-}
-
 .footer-area .footer-bottom p {
     color: #797979
 }
