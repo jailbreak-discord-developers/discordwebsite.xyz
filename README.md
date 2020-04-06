@@ -16,7 +16,7 @@ Team:
 - [@Harryioss](https://twitter.com/harryioss)
 - [@Pixeljellyfish](https://twitter.com/pixeljellyfish)
 - [@Chrislad](https://twitter.com/Ovzic)
-- [@Bowl_V2](https://twitter.com/)<br/>
+- [@Bowl_V2](https://twitter.com/myllo_steven)<br/>
 
 ### Discord Server
 [Join!](https://discord.gg/k9VrUGf)<br/>
