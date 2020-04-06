@@ -668,31 +668,6 @@ h3,
         margin-top: 51px
     }
 
-    .home_banner_area .banner_inner .banner_content h2 {
-        font-size: 28px;
-        line-height: 38px
-    }
-
-    .home_banner_area {
-        min-height: 450px
-    }
-
-    .home_banner_area .banner_inner {
-        min-height: 450px
-    }
-
-    .blog_banner .banner_inner .blog_b_text {
-        margin-top: 0px
-    }
-
-    .home_banner_area .banner_inner .banner_content img {
-        display: none
-    }
-
-    .home_banner_area .banner_inner .banner_content h5 {
-        margin-top: 0px
-    }
-
     .p_120 {
         padding-top: 70px;
         padding-bottom: 70px
@@ -716,33 +691,6 @@ h3,
 
     .pad_btm {
         padding-bottom: 70px
-    }
-}
-
-@media (max-width: 480px) {
-    .header_area {
-        max-height: 250px
-    }
-
-    .home_banner_area .banner_inner .banner_content {
-        padding: 30px 15px;
-        margin-top: 0px
-    }
-
-    .banner_content .white_btn {
-        display: block
-    }
-
-    .home_banner_area .banner_inner .banner_content h3 {
-        font-size: 24px
-    }
-
-    .banner_area .banner_inner .banner_content h2 {
-        font-size: 32px
-    }
-
-    .banner_btn {
-        margin-bottom: 20px
     }
 }
 
