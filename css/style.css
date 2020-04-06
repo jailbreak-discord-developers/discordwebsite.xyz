@@ -915,11 +915,6 @@ h3,
     color: #acaaaa
 }
 
-.footer-area {
-    padding: 120px 0px 120px;
-    background: #0e1424
-}
-
 @media (max-width: 991px) {
     .footer-area {
         padding: 60px 0px
@@ -934,25 +929,6 @@ h3,
 
 .footer-area .single-footer-widget p {
     color: #7b838a
-}
-
-.footer-area .single-footer-widget h4 {
-    color: #fff;
-    font-size: 22px;
-    margin-bottom: 25px;
-    font-weight: 600
-}
-
-@media (max-width: 1024px) {
-    .footer-area .single-footer-widget h4 {
-        font-size: 18px
-    }
-}
-
-@media (max-width: 991px) {
-    .footer-area .single-footer-widget h4 {
-        margin-bottom: 15px
-    }
 }
 
 .footer-area .single-footer-widget ul li a {
