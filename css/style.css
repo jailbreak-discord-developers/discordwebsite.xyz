@@ -794,19 +794,6 @@ h3,
     margin-bottom: 45px
 }
 
-.hero-banner::after {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 60%;
-    background: url(../img/banner/banner-bg.png) left center no-repeat;
-    background-size: cover;
-    z-index: -1
-}
-
 .hero-banner--sm {
     padding: 0;
     height: 300px
