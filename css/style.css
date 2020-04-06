@@ -972,31 +972,6 @@ h3,
     padding: 10px
 }
 
-.footer-area .single-footer-widget input:focus {
-    outline: none;
-    box-shadow: none
-}
-
-.footer-area .single-footer-widget input.placeholder {
-    padding-left: 10px;
-    color: #797979
-}
-
-.footer-area .single-footer-widget input:-moz-placeholder {
-    padding-left: 10px;
-    color: #797979
-}
-
-.footer-area .single-footer-widget input::-moz-placeholder {
-    padding-left: 10px;
-    color: #797979
-}
-
-.footer-area .single-footer-widget input::-webkit-input-placeholder {
-    padding-left: 10px;
-    color: #797979
-}
-
 .footer-area .single-footer-widget .click-btn {
     font-family: "Roboto", sans-serif;
     color: #3a414e;
