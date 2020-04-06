@@ -779,23 +779,6 @@ h3,
         font-size: 32px
     }
 
-    .comments-area .thumb {
-        margin-right: 10px
-    }
-
-    .testi_item .media .d-flex {
-        padding-right: 0px
-    }
-
-    .testi_item .media .d-flex img {
-        width: auto;
-        margin-bottom: 15px
-    }
-
-    .testi_item .media {
-        display: block
-    }
-
     .banner_btn {
         margin-bottom: 20px
     }
