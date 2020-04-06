@@ -547,27 +547,6 @@ h3,
     margin-right: 0px
 }
 
-@media (max-width: 1199px) {
-
-    .home_banner_area .banner_inner {
-        padding: 100px 0px
-    }
-
-    .header_area .tickets_btn {
-        margin-left: 40px
-    }
-
-    .home_banner_area .banner_inner .banner_content h2 br {
-        display: none;
-        font-size: 36px
-    }
-
-    .home_banner_area .banner_inner .banner_content h2 {
-        font-size: 36px;
-        line-height: 45px
-    }
-}
-
 @media (max-width: 991px) {
 
     .header_area+section,
@@ -588,14 +567,6 @@ h3,
 
     .footer_area .footer_inner {
         margin-bottom: -30px
-    }
-
-    .home_banner_area .banner_inner .home_left_img {
-        display: none
-    }
-
-    .home_banner_area .banner_inner {
-        padding: 70px 0px 100px 0px
     }
 
     .left_side_text {
