@@ -67,7 +67,7 @@
           </div>
           <div class="col-lg-5 pt-5">
             <div class="hero-banner__content">
-              <div id="features" class="container">
+              <div class="container">
 
                 <div data-aos="fade-left" class="column body-content aos-init aos-animate">
                   <h1>Advanced Knowledge Made Simple</h1>
@@ -165,6 +165,26 @@
   <!-- Main JavaScript File -->
   <script src="js/main.js"></script>
 
+  <!-- Smooth Scroll because its not pulling from main.js -->
+  <script>
+    $(document).ready(function() {
+      $("a").on('click', function(event) {
+
+        if (this.hash !== "") {
+          event.preventDefault();
+
+          var hash = this.hash;
+
+          $('html, body').animate({
+            scrollTop: $(hash).offset().top
+          }, 800, function() {
+
+            window.location.hash = hash;
+          });
+        }
+      });
+    });
+  </script>
 
 </body>
 
