@@ -988,33 +988,6 @@ h3,
     left: 0
 }
 
-.footer-area .single-footer-widget .click-btn:focus {
-    outline: none;
-    box-shadow: none
-}
-
-@media (max-width: 375px) {
-    .footer-area .single-footer-widget .click-btn {
-        margin-top: 10px
-    }
-}
-
-@media (min-width: 400px) {
-    .footer-area .single-footer-widget .click-btn {
-        left: -50px
-    }
-}
-
-.footer-area .footer-bottom {
-    margin-top: 70px
-}
-
-@media (max-width: 991px) {
-    .footer-area .footer-bottom {
-        margin-top: 20px
-    }
-}
-
 .footer-area .footer-bottom p {
     color: #797979
 }
