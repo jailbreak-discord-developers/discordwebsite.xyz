@@ -616,23 +616,6 @@ h3,
         display: none
     }
 
-    .categories_post img {
-        width: 100%
-    }
-
-    .categories_post {
-        max-width: 360px;
-        margin: 0 auto
-    }
-
-    .blog_categorie_area .col-lg-4 {
-        margin-top: 30px
-    }
-
-    .blog_area {
-        padding-bottom: 80px
-    }
-
     .single-post-area .blog_right_sidebar {
         margin-top: 30px
     }
@@ -676,15 +659,6 @@ h3,
 
     .left_side_text {
         margin-bottom: 50px
-    }
-
-    .price_item {
-        max-width: 360px;
-        margin: 0px auto 30px
-    }
-
-    .price_inner {
-        margin-bottom: -30px
     }
 }
 
@@ -797,20 +771,6 @@ h3,
 
     .sample-text-area {
         padding: 70px 0 70px 0
-    }
-
-    .generic-blockquote {
-        padding: 30px 15px 30px 30px
-    }
-
-    .blog_details h2 {
-        font-size: 20px;
-        line-height: 30px
-    }
-
-    .blog_banner .banner_inner .blog_b_text h2 {
-        font-size: 28px;
-        line-height: 38px
     }
 
     .footer-area {
