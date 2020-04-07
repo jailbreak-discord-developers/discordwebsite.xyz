@@ -21,7 +21,7 @@ body {
 }
 
 .navbar-b.navbar-reduce {
-  box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 6px 9px 0px #0000000f;
 }
 
 .navbar-b.navbar-trans .nav-item,
@@ -485,7 +485,7 @@ h3,
         border: none;
         padding: 0px;
         border-radius: 0px;
-        box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.4)
+        box-shadow: 0px 10px 30px 0px #00000066
     }
 }
 
@@ -749,7 +749,7 @@ h3,
 
 .card-feature:hover {
     background: #fff;
-    box-shadow: 0px 10px 20px 0px rgba(33, 20, 106, 0.1)
+    box-shadow: 0px 10px 20px 0px #21146a1a
 }
 
 .about__content h2 {
@@ -768,7 +768,7 @@ h3,
     font-weight: 500;
     padding: 10px 24px;
     border-radius: 30px;
-    background-color: rgb(88, 88, 88);
+    background-color: #585858;
     color: #919191;
     color: #FFFFFF;
     transition: all .4s ease
@@ -810,4 +810,17 @@ h3,
 
 .footer-area .footer-bottom p a {
     color: #fff
+}
+
+/*======================================
+//--//-->   sections
+======================================*/
+
+.features{
+    padding: 80px;
+}
+
+.features, h2, p{
+    height: max-content;
+    padding: 10px;
 }
