@@ -885,7 +885,7 @@ user p {
 user h3 {
     margin: 0;
     margin-top: 10px;
-    color: #8080ff;
+    color: #ff9267;
 }
 
 user .icon-container img {
@@ -904,7 +904,7 @@ user .icon-container {
 
 user a {
     text-rendering: optimizeLegibility;
-    color: #8080ff;
+    color: #ff9267;
     position: absolute;
     top: 15;
     right: 15;
