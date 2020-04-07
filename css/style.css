@@ -869,8 +869,8 @@ user {
     display: inline-block;
     margin: 1.4vw;
     text-align: center;
-    padding: 20px;
-    background-color: #202020;
+    padding: 10px;
+    background-color: #20202033;
     border-radius: 20px 20px;
     -webkit-transition: all 300ms cubic-bezier(0.505, 0.005, 0.250, 1.000);
     -moz-transition: all 300ms cubic-bezier(0.505, 0.005, 0.250, 1.000);
@@ -905,7 +905,7 @@ user .icon-container {
 
 user a {
     text-rendering: optimizeLegibility;
-    color: #8080ff;
+    color: #ff9267;
     position: absolute;
     top: 15;
     right: 15;
@@ -914,14 +914,6 @@ user a {
     -o-transition: all 400ms cubic-bezier(1.000, 0.005, 0.340, 1.000);
     transition: all 400ms cubic-bezier(1.000, 0.005, 0.340, 1.000);
     /* custom */
-}
-
-user a:hover {
-    opacity: 0.6;
-}
-
-user img:hover {
-    transform: scale(1.2);
 }
 
 @media screen and (max-width: 545px) {
