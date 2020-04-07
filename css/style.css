@@ -845,7 +845,8 @@ section img:hover {
 ======================================*/
 
 .features{
-    padding: 80px;
+    padding: 50px;
+    height: -10px;
 }
 
 .features, h2, p{
@@ -863,7 +864,7 @@ section img:hover {
 }
 
 user {
-    width: 300px;
+    width: 310px;
     flex-shrink: 1;
     display: inline-block;
     margin: 1.4vw;
@@ -885,7 +886,7 @@ user p {
 user h3 {
     margin: 0;
     margin-top: 10px;
-    color: #ff9267;
+    color: #ffffff;
 }
 
 user .icon-container img {
@@ -930,11 +931,6 @@ user a {
 
     p {
         font-size: 20px;
-    }
-
-    .big-button button {
-        padding: 20px 35px;
-        font-size: 4vw;
     }
 
     section {
