@@ -12,11 +12,11 @@ Discord-Website
 
 ### Discord Website
 Team:
-- [Cryptic](https://twitter.com/cr4ptic)
-- [Harryioss](https://twitter.com/harryioss)
-- [Pixeljellyfish](https://twitter.com/pixeljellyfish)
-- [Chrislad](https://twitter.com/Ovzic)
-- [TurntDucky](https://twitter.com/turntducky)<br>
+- [@Cryptic](https://twitter.com/cr4ptic)
+- [@Harryioss](https://twitter.com/harryioss)
+- [@Pixeljellyfish](https://twitter.com/pixeljellyfish)
+- [@Chrislad](https://twitter.com/Ovzic)
+- [@Bowl_V2](https://twitter.com/)<br/>
 
 ### Discord Server
-[Join!](https://discord.gg/vG23fCF)<br/>
+[Join!](https://discord.gg/k9VrUGf)<br/>
