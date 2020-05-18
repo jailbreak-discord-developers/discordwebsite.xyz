@@ -721,7 +721,7 @@ h3,
     padding: 30px 35px;
     border: 0;
     border-radius: 0;
-    background: #faf9ff;
+    background: #f3f3f3;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -748,8 +748,8 @@ h3,
 }
 
 .card-feature:hover {
-    background: #fff;
-    box-shadow: 0px 10px 20px 0px #21146a1a
+    background: #e9e9e9;
+    box-shadow: 0px 10px 20px 0px #e9e9e9;
 }
 
 .about__content h2 {
