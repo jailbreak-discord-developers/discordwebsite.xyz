@@ -15,7 +15,7 @@ body {
 
 .navbar-b {
   transition: all .5s ease-in-out;
-  background-color: #464646;
+  background-color: #a1a1a1;
   padding-top: 4;
   padding-bottom: 4;
 }
@@ -623,7 +623,7 @@ h3,
 
 .hero-banner {
     position: relative;
-    background: #3d3d3d;
+    background: #a1a1a1;
     background-size: cover;
     padding: 90px 0 60px 0;
     z-index: 1
@@ -764,7 +764,7 @@ h3,
     color: #ffffff;
     outline: none;
     padding: 10px 15px;
-    background-color: rgba(117, 117, 117, 0.89);
+    background-color: rgba(141, 141, 141, 0.89);
     border: none;
     border-radius: 30px;
     cursor: pointer;
