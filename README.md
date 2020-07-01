@@ -19,4 +19,4 @@ Team:
 - [Turnt Ducky](https://twitter.com/turntducky)<br/>
 
 ### Discord Server
-[Join!](https://discord.gg/vG23fCF)<br/>
+[Join!](https://discord.gg/8sQFYjw)<br/>
